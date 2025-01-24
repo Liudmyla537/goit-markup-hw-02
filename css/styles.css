@@ -77,7 +77,8 @@ button {
   letter-spacing: 0.04em;
 }
 
-button:hover {
+button:hover,
+button:focus {
   background-color: #404bbf;
 }
 
