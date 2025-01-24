@@ -124,8 +124,12 @@ h2 {
 }
 .team-s,
 .team-s-p {
-  line-height: 1.2;
+  line-height: 1.5;
   text-transform: capitalize;
+  background-color: #ffffff;
+}
+
+.card {
   background-color: #ffffff;
 }
 
