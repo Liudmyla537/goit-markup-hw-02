@@ -128,6 +128,17 @@ team {
 .footer .logo-text {
   color: #f4f4fd;
 }
+
+.portfolio-h {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
 .footer .footer-p {
   color: #f4f4fd;
   font-weight: 400;
