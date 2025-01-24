@@ -119,11 +119,11 @@ h2 {
 }
 
 .our-team {
-  line-height: 1.11;
+  line-height: 1.2;
   text-transform: capitalize;
 }
-.team-s,
-.team-s-p {
+.team-sec,
+.team-sec-p {
   line-height: 1.5;
   text-transform: capitalize;
   background-color: #ffffff;
