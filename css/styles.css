@@ -41,13 +41,10 @@ button {
   transition: color 0.3s ease;
 }
 
-.site-nav .link:hover {
-  color: #404bbf;
-}
-
+.site-nav .link:hover,
 .site-nav .link:focus {
-  color: #404bbf; /* Зміна кольору при фокусі */
-  outline: none; /* При необхідності прибрати стандартний контур браузера */
+  color: #404bbf; /* Зміна кольору при наведенні та фокусі */
+  outline: none; /* При необхідності прибрати стандартний контур */
 }
 
 .header-contacts {
@@ -58,9 +55,11 @@ button {
   color: #434455;
   font-style: normal;
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 
-.header-contacts:hover .header-contacts:focus {
+.header-contacts:hover,
+.header-contacts:focus {
   color: #404bbf;
 }
 
