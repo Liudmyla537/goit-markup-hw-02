@@ -118,17 +118,22 @@ h2 {
   background-color: #f4f4fd;
 }
 
+.card {
+  background-color: #ffffff;
+}
 .our-team {
-  line-height: 1.2;
+  line-height: 1.11;
   text-transform: capitalize;
 }
 .team-sec,
 .team-sec-p {
-  line-height: 1.5;
   text-transform: capitalize;
   background-color: #ffffff;
 }
 
+.team-sec {
+  line-height: 1.2;
+}
 .card {
   background-color: #ffffff;
 }
