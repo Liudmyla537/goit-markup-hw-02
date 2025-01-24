@@ -23,13 +23,6 @@ button {
 .logo-text {
   color: #2e2f42;
 }
-.site-nav .link {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
 
 .site-nav .link {
   font-weight: 500;
@@ -43,8 +36,11 @@ button {
 
 .site-nav .link:hover,
 .site-nav .link:focus {
-  color: #404bbf; /* Зміна кольору при наведенні та фокусі */
-  outline: none; /* При необхідності прибрати стандартний контур */
+  color: #404bbf;
+}
+
+site-contacts {
+  font-style: normal;
 }
 
 .header-contacts {
