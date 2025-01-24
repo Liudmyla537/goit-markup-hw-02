@@ -114,12 +114,18 @@ h2 {
   color: #2e2f42;
 }
 
-team {
+.team {
   background-color: #f4f4fd;
 }
-.team-s {
+
+.our-team {
   line-height: 1.1;
   text-transform: capitalize;
+}
+.team-s {
+  line-height: 1.2;
+  text-transform: capitalize;
+  background-color: #ffffff;
 }
 
 .footer {
@@ -132,7 +138,7 @@ team {
 .portfolio-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
