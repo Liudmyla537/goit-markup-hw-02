@@ -119,10 +119,11 @@ h2 {
 }
 
 .our-team {
-  line-height: 1.1;
+  line-height: 1.11;
   text-transform: capitalize;
 }
-.team-s {
+.team-s,
+.team-s-p {
   line-height: 1.2;
   text-transform: capitalize;
   background-color: #ffffff;
@@ -138,7 +139,7 @@ h2 {
 .portfolio-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
