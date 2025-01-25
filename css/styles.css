@@ -39,6 +39,10 @@ button {
   color: #404bbf;
 }
 
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
 site-contacts {
   font-style: normal;
 }
